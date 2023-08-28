@@ -1,1 +1,1 @@
-web: gunicorn thinkblog-django.wsgi:application
+web: gunicorn thinkblog-django.wsgi
