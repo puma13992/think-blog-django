@@ -1,1 +1,1 @@
-web: gunicorn thinkblog-django-9e828dfbb607.wsgi
+web: gunicorn thinkblog-django.wsgi
